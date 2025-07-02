@@ -44,7 +44,7 @@ git branch -M main
 ## 6. GitHubへプッシュ
 
 ```bash
-git push -u origin main
+git push -u GitHubtest main
 ```
 
 ---
